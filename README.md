@@ -21,3 +21,6 @@ sudo ./install
 ### Setup
 You'll need a .jpg picture of everyone participating saved into /home/pi/SSanta
 You will also need to add all the names of the participants into the list on line 17 as strings separated by commas.
+Ensure that the name strings match EXACTLY with the filename for the photo of that person. Case senstitive! (Including the file extensions!!)
+
+
